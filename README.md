@@ -27,23 +27,25 @@ Welcome to my active repository of enterprise-grade project management framework
 
 #### The Top 5 Enterprise PM Playbooks
 
-**1. [Post-Merger Integration (PMI) Playbook](./post-merger-integration/pmi-day-1-readiness.md)**
-*   **Focus:** M&A technology integration, system consolidations, and securing "Day-1" operational readiness.
-*   **Key Asset:** Step-by-step technical platform migration & synergy tracker.
+#### 📚 The Top 5 Enterprise PM Playbooks
 
-**2. [Hybrid Agile/Waterfall Governance Playbook](./hybrid-agile-governance/hybrid-execution-model.md)**
-*   **Focus:** Blending rigid regulatory/contractual milestones with rapid, iterative Scrum development.
-*   **Key Asset:** Phase-Gate deployment framework & automated Change Control Board (CCB) release criteria.
+**1. [Post-Merger Integration (PMI) Playbook](./content/projects/pmi-playbook.md)**
+*   **Focus:** M&A technology integration, $12.7B system consolidations, and securing "Day-1" operational readiness with zero downtime.
+*   **Key Asset:** Consolidated ERP/expense pipelines (SAP/Concur), multi-bank SWIFT integrations, and electronic Bank Account Management (eBAM) deployment.
 
-**3. Product Launch & Go-To-Market (GTM) Playbook** *(Coming Soon)*
-*   **Focus:** Bridging software development with cross-functional operational readiness (SLA structures, support runbooks, customer success handoffs).
+**2. [Hybrid Agile/Waterfall Governance Playbook](./content/projects/hybrid-governance.md)**
+*   **Focus:** Blending rigid regulatory milestone tracking (Waterfall) with rapid, iterative Scrum development cycles and SLA adherence.
+*   **Key Asset:** Phase-Gate deployment framework, predictive parametric resource capacity planning, and automated Change Control Board (CCB) release criteria.
 
-**4. Enterprise Scale & Capacity Planning Playbook** *(Coming Soon)*
-*   **Focus:** Scaled Agile Framework (SAFe) mechanics, Program Increment (PI) planning, and managing cross-team technical dependencies.
+**3. [Enterprise GRC & Compliance-by-Design Playbook](./content/projects/global-corptax-implementation.md)**
+*   **Focus:** Securing 100% compliance during intensive federal audits (SOX, PCAOB) and automating global regulatory pipelines across 22 countries.
+*   **Key Asset:** Global Corptax & OECD Pillar 2 GloBE jurisdictional calculations using automated REST API data extraction layers and role-based access control (RBAC).
 
-**5. IT GRC (Governance, Risk, & Compliance) Playbook** *(Coming Soon)*
-*   **Focus:** "Compliance-by-design" structures for SOX, PCAOB, and PCI-DSS audits within continuous deployment (CI/CD) pipelines.
+**4. Product Launch & Go-To-Market (GTM) Playbook** *(Coming Soon)*
+*   **Focus:** Bridging core software engineering with cross-functional operational readiness (SLA structures, system support runbooks, and client success handoffs).
 
+**5. Enterprise Scale & Capacity Planning Playbook** *(Coming Soon)*
+*   **Focus:** Scaled Agile Framework (SAFe) metrics, Program Increment (PI) planning, and cross-team dependency mapping across multi-million-dollar technology portfolios.
 ---
 
 ### Additional PM Repositories
