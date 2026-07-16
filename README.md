@@ -44,7 +44,7 @@ Welcome to my active repository of enterprise-grade project management framework
 **4. Product Launch & Go-To-Market (GTM) Playbook** *(Coming Soon)*
 *   **Focus:** Bridging core software engineering with cross-functional operational readiness (SLA structures, system support runbooks, and client success handoffs).
 
-**5. Enterprise Scale & Capacity Planning Playbook** *(Coming Soon)*
+**5. Enterprise Scale, Capacity Planning & AI Metrics Playbook** *(Coming Soon)*
 *   **Focus:** Scaled Agile Framework (SAFe) metrics, Program Increment (PI) planning, and cross-team dependency mapping across multi-million-dollar technology portfolios.
 ---
 
