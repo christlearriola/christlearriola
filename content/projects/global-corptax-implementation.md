@@ -8,11 +8,54 @@
 ---
 
 ## 🔄 Architectural Transformation
-[Legacy State: 22 Countries] ──> Unstructured Excel ──> High Audit & Pillar 2 Compliance Risks
-│
-▼
-[Target State: Unified Cloud] ──> Standardized APIs  ──> Centralized Corptax Engine ──> Automated Pillar 2 GloBE & SOX Reporting
 
+To move from risky, manual input to high-compliance automated reporting, we engineered the following pipeline transformation:
+
+```mermaid
+graph LR
+    %% Modern Theme & Color Pallette
+    %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#0F172A', 'primaryTextColor': '#F1F5F9', 'primaryBorderColor': '#334155', 'lineColor': '#4F46E5', 'secondaryColor': '#1E293B', 'tertiaryColor': '#fff'}}}%%
+    
+    subgraph Legacy [RISK & LATENCY (Excel)]
+        A1(Excel Sheets - UK)
+        A2(Excel Sheets - SG)
+        A3(Excel Sheets - IN)
+        C(Manual Consolidation)
+    end
+
+    subgraph Core [CENTRALIZED ENGINE (Corptax)]
+        D(Standardized API Schema)
+        E(Consolidation Engine)
+        F(Rules & Compliance Layer)
+    end
+
+    subgraph Reporting [COMPLIANT OUTCOMES]
+        G(SOX Audit Trail)
+        H(Pillar 2 Reporting)
+    end
+
+    %% Optimized Flow Connections
+    A1 & A2 & A3 -. Manual Entry .-> C
+    C -. ETR Risks .-> E
+
+    %% The Modern Pipeline (Animated Flow)
+    A1 & A2 & A3 == "Automated API Pull" ==> D
+    D ==> E
+    E ==> F
+    F ==> G
+    F ==> H
+
+    %% Stylization Classes
+    classDef risky fill:#fee2e2,stroke:#ef4444,stroke-width:2px,color:#991b1b,rx:10,ry:10;
+    classDef central fill:#e0e7ff,stroke:#4f46e5,stroke-width:2px,color:#1e3a8a,rx:10,ry:10;
+    classDef success fill:#dcfce7,stroke:#16a34a,stroke-width:2px,color:#166534,rx:10,ry:10;
+    classDef flow fill:#f8fafc,stroke:#94a3b8,stroke-width:1px,color:#475569,stroke-dasharray: 5 5;
+
+    %% Assigning Classes to Nodes
+    class A1,A2,A3,C risky;
+    class D,E,F central;
+    class G,H success;
+    class Legacy flow;
 ---
 
 ## 🛠️ Key Implementation Pillars
