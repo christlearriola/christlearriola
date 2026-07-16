@@ -59,16 +59,17 @@ Welcome to my active repository of enterprise-grade project management framework
 
 | Category | Tools & Frameworks |
 | :--- | :--- |
-| **Product Delivery & PPM** | MS Project, PlanView, Smartsheet, Jira, Confluence, Wrike Copilot |
-| **Methodologies** | PMBOK Framework, Agile/Scrum, Waterfall, Post-Merger Integration (PMI) |
-| **Enterprise Architecture** | Oracle Fusion Cloud, NetSuite, SAP S/4HANA, Concur Expense Platform |
-| **Modern Infrastructure** | AWS, Snowflake, SQL, Cloud-Native APIs (REST/JSON), Git |
-| **AI & Automation** | Atlassian Rovo Agents, Microsoft Copilot Studio, CrewAI, Make.com |
+| **Product Delivery & PPM** | MS Project, PlanView, Smartsheet, Jira, Confluence, Wrike Copilot, Earned Value Management (EVM) |
+| **Methodologies** | PMBOK Framework, Agile/Scrum, Hybrid Waterfall/Agile, Post-Merger Integration (PMI), Parametric Resource Sizing & Capacity Planning |
+| **Enterprise Architecture & FinTech** | Oracle Fusion Cloud (ERP, PPM, SCM), NetSuite, SAP S/4HANA, Corptax, Concur Expense Platform |
+| **Modern Infrastructure & Cloud** | AWS Cloud Architecture, Snowflake Data Cloud, SQL, Cloud-Native APIs (REST/JSON), Git, Data Schema Analysis |
+| **AI, Automation & RPA** | Atlassian Rovo Agents, Microsoft Copilot Studio, CrewAI, Flowise, Make.com, Zapier Central, RPA Mesh Integrations, Automated Webhook Pipelines |
+| **Regulatory GRC** | SOX, PCAOB, OECD Pillar 2, ICFR, Segregation of Duties (SoD), Change Control Board (CCB) Leadership |
 
 ---
 
 ## 📈 Executive Impact Metrics
+*   **$190M+ Portfolio Execution:** Led concurrent physical, cloud, and technical infrastructure modernizations, maximizing delivery velocity and financial tracking transparency.
 *   **$12.7B Integration:** Orchestrated programmatic controls and IMO governance, securing 100% Day-1 operational readiness for a massive technical merger.
-*   **$2M Portfolio Execution:** Managed concurrent physical and technical infrastructure modernizations at a **40% net profit margin** ($800K profit) in a single year.
 *   **35% Speed-to-Market:** Accelerated delivery velocity across product, engineering, and client teams by managing cloud-native migration pathways.
-*   **SOX/PCAOB Compliance:** Engineered automated UAT test cases and system-level audit trails to satisfy complex GRC requirements.
+*   **SOX/PCAOB Compliance:** Engineered automated, system-level audit trails and strict GRC controls across 22 countries to secure 100% compliance during intensive federal audits.
