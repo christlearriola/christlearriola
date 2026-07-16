@@ -50,7 +50,7 @@ Welcome to my active repository of enterprise-grade project management framework
 
 *   **[EBT/SNAP State Onboarding Sandbox](https://github.com/christlearriola/ebt-state-onboarding)**  
     *An interactive GitHub Project board showcasing an Agile/Waterfall hybrid framework for onboarding state governments onto complex transaction processing platforms.*
-    *   **[Global Corptax Compliance Transformation](./content/projects/global-corptax-implementation.md)**  
+*   **[Global Corptax Compliance Transformation](./content/projects/global-corptax-implementation.md)**  
     *Migrating corporate tax provisions across 22 countries from manual Excel sheets to a streamlined, SOX-compliant Corptax platform.*
 
 ---
