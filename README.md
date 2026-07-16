@@ -3,18 +3,15 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/christlearriola)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:christle.arriola@gmail.com)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ---
 
 ## 👋 About Me
 
-```yaml
-profile:
-  name: "Christle Arriola"
-  role: "Senior Technical Program Manager"
-  location: "Florida, USA (Remote)"
+```yaml 
   specialization:
-    - "Enterprise Fintech Infrastructure & Cloud Migrations"
+    - "Enterprise Fintech Applications, Infrastructure & Cloud Migrations"
     - "Regulatory Governance (SOX, PCAOB, GRC Compliance)"
     - "Post-Merger Integration (PMI) Strategy"
     - "Agentic AI & PMO Workflow Automation"
@@ -53,6 +50,8 @@ Welcome to my active repository of enterprise-grade project management framework
 
 *   **[EBT/SNAP State Onboarding Sandbox](https://github.com/christlearriola/ebt-state-onboarding)**  
     *An interactive GitHub Project board showcasing an Agile/Waterfall hybrid framework for onboarding state governments onto complex transaction processing platforms.*
+    *   **[Global Corptax Compliance Transformation](./content/projects/global-corptax-implementation.md)**  
+    *Migrating corporate tax provisions across 22 countries from manual Excel sheets to a streamlined, SOX-compliant Corptax platform.*
 
 ---
 
